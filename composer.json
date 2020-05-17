@@ -1,0 +1,26 @@
+{
+    "name": "wolf05-git/terminal",
+    "description": "TATIYE.NET Develover Wolf05",
+    "homepage": "https://github.com/wolf05-git/terminal.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tatiye",
+            "email": "info@tatiye.net"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"terminal\\": "src/"}
+    },
+    "require": {
+        "php": ">=5.6.3"
+    },
+    "require-dev": {
+        "wolf05-git/terminal": "dev-master"
+    },
+
+    
+    "license": "MIT"
+}
+
+
